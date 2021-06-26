@@ -1,0 +1,58 @@
+[
+    {
+      "plat_nomor": "B 123 34",
+      "warna": "Hitam",
+      "tipe_mobil": "SUV",
+      "parking_lot": "A1",
+      "tanggal_masuk": "2021 06 25, 11:32 am",
+      "tanggal_keluar": false
+    },
+    {
+      "plat_nomor": "B 123 35",
+      "warna": "Putih",
+      "tipe_mobil": "MPV",
+      "parking_lot": "A2",
+      "tanggal_masuk": "2021 06 25, 11:30 am",
+      "tanggal_keluar": false
+    },
+    {
+      "plat_nomor": "B 123 36",
+      "warna": "Hitam",
+      "tipe_mobil": "SUV",
+      "parking_lot": "A3",
+      "tanggal_masuk": "2021 06 21, 10:00 am",
+      "tanggal_keluar": false
+    },
+    {
+      "plat_nomor": "B 123 37",
+      "warna": "Putih",
+      "tipe_mobil": "MPV",
+      "parking_lot": "A4",
+      "tanggal_masuk": "2021 06 22, 11:00 am",
+      "tanggal_keluar": false
+    },
+    {
+      "plat_nomor": "B 123 38",
+      "warna": "Hitam",
+      "tipe_mobil": "SUV",
+      "parking_lot": "A5",
+      "tanggal_masuk": "2021 06 23, 07:00 am",
+      "tanggal_keluar": false
+    },
+    {
+      "plat_nomor": "B 123 39",
+      "warna": "Putih",
+      "tipe_mobil": "MPV",
+      "parking_lot": "A6",
+      "tanggal_masuk": "2021 06 21, 10:00 pm",
+      "tanggal_keluar": false
+    },
+    {
+      "plat_nomor": "B 123 40",
+      "warna": "Hitam",
+      "tipe_mobil": "SUV",
+      "parking_lot": "A7",
+      "tanggal_masuk": "2021 06 22, 11:00 am",
+      "tanggal_keluar": false
+    }
+]

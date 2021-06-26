@@ -1,0 +1,24 @@
+{
+  "name": "rest-api-parking-lot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "NODE_ENV=development nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiyoGInting/REST-API-parking-lot.git"
+  },
+  "author": "Riyo Wanta Ginting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RiyoGInting/REST-API-parking-lot/issues"
+  },
+  "homepage": "https://github.com/RiyoGInting/REST-API-parking-lot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1"
+  }
+}
